@@ -1,4 +1,4 @@
-# Flutter Interview Challenge: Stock Screener
+# Flutter Challenge: Stock Screener
 This challenge is designed to assess your understanding of basic Flutter concepts and data fetching in a simulated Fintech environment.
 
 ## Objective
