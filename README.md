@@ -21,6 +21,12 @@ Build a mobile application that displays a stock screener with stock data.
 * Code quality and adherence to best practices (e.g., state management).
 * Approach to handling bonus features (if attempted).
 
+## How to submit
+
+1. Fork this repo
+2. Create a new branch
+3. Create a pull request to this repository with your solution
+
 ## Additional Information:
 
 * **Platform**: Build the app for either iOS or Android.
